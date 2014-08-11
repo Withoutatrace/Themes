@@ -1,1 +1,20 @@
-important shit to go here
+{
+	"name": "Fairy Tail",
+	"author": [
+		"Withoutatrace",
+		"Diamondslight",
+	],
+	"threadlink": insertthreadlinkhere,
+	"summary": "In a world full of magic, the city of Magnolia is home to the strongest official wizard guild, Fairy Tail! With the dark guilds Eisenwald and Phantom Lord running amuk, along with the Oracion Seis, Natsu and friends have their work cut out for them, but justice always prevails...or does it?(Remember to use /changelog to keep up with changes!)",
+	"sides" [
+		{
+			"side": "village",
+			"translation": "Fairy Tail",
+			"winmsg": "With the world saved once again, ~Players~ can live freely once again!",
+		},
+		{
+			"side": "eisen",
+			"translation": "Eisanwald",
+			"winmsg": "Now that ~Players~ have eliminated their enemies, nothing is stopping them from killing everyone with the Lullably flute! Mwahahahaha!"
+		},
+		
