@@ -17,4 +17,15 @@
 			"translation": "Eisanwald",
 			"winmsg": "Now that ~Players~ have eliminated their enemies, nothing is stopping them from killing everyone with the Lullably flute! Mwahahahaha!"
 		},
+		{
+			"side": "oracion",
+			"translation": "Oracion Seis",
+			"winmsg": winmsg,
+		},
+		{
+			"side": "phantom",
+			"translation": "Phantom Lord",
+			"winmsg": too busy to do since at school,
+		},
+			
 		
